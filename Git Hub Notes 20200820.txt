@@ -1,0 +1,25 @@
+Steps to make a new repository:
+
+*Part 1 in GitHub
+1. Login to GitHub
+2. Create a new *public* repository with *no* README.md file
+3. Get the SSH i.e. git@github.com:ClaroEvangelista/JobSearch.git
+
+*Part 2 in GitBash
+1. Load GitBash
+2. cd Documents/resume/JobSearch
+3. git init - to initialize the Repository folder 
+4. git status - to check if there are any changes to the directory 
+5. git add .
+6. git commit -m "Initial Commit"
+7. git remote add origin git@github.com:ClaroEvangelista/JobSearch.git
+8. git push -u origin master - to send master branch to GitHub
+
+
+
+*Maintenance*
+1. cd Documents\resume\JobSearch
+2. git status
+3. git add .   
+4. git commit -m "Made Changes to README.md"
+5. git push origin master
