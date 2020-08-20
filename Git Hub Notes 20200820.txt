@@ -16,7 +16,6 @@ Steps to make a new repository:
 8. git push -u origin master - to send master branch to GitHub
 
 
-
 *Maintenance*
 1. cd Documents\resume\JobSearch
 2. git status
