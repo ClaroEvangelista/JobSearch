@@ -20,5 +20,5 @@ Steps to make a new repository:
 1. cd Documents\resume\JobSearch
 2. git status
 3. git add .   
-4. git commit -m "Made Changes to README.md"
+4. git commit -m "Made Changes to Notes.docx"
 5. git push origin master
