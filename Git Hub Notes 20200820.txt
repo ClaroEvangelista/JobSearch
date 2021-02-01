@@ -17,7 +17,7 @@ Steps to make a new repository:
 
 
 *Maintenance*
-1. cd Documents\resume\JobSearch
+1. cd Documents/resume/JobSearch
 2. git status
 3. git add .   
 4. git commit -m "Made Changes to Notes.docx"
